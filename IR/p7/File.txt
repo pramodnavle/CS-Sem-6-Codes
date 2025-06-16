@@ -1,0 +1,4 @@
+This is an obviously massive challenge, but there are steps to doing it that anyone can follow.
+The main idea, however, is that computers simply do not, and will not, ever understand words directly. 
+Humans don't either *shocker*. In humans, memory is broken down into electrical signals in the brain, in the form of
+neural groups that fire in patterns. 

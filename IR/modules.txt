@@ -1,0 +1,6 @@
+pandas
+sklearn
+numpy
+nltk
+tweepy
+bs4
